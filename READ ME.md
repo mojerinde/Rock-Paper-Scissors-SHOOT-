@@ -1,6 +1,6 @@
 # Project Rock! Paper! Scissors! SHOOT!!    
 ​
-Rock, Paper, Scissors is a hand games played between two people. Rock beats scissors, scissors beats paper by vutting it and papaer beats rock. Whenever one player wins, the other player loses.
+Rock, Paper, Scissors is a hand games played between two people. Rock beats scissors, scissors beats paper by cutting it and papaer beats rock. Whenever one player wins, the other player loses.
 ​
 ## Getting Started
 ​
